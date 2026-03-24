@@ -1198,7 +1198,7 @@ dependencies = [
 [[package]]
 name = "sys-info"
 version = "0.9.1"
-source = "git+https://github.com/sjfalken/sys-info-rs#5f3331d97341cf9b218d5a185f23c5cd223d2be3"
+source = "git+https://github.com/sjfalken/sys-info-rs#c4464b56e2af32baf600be7c80d5ecaef3e0800e"
 dependencies = [
  "cc",
  "libc",
