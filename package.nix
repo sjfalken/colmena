@@ -35,6 +35,10 @@ in rustPlatform.buildRustPackage rec {
 
   cargoLock = {
     lockFile = ./Cargo.lock;
+    outputHashes = {
+
+    "sys-info-0.9.1" = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+    };
   };
 
   nativeBuildInputs = [ installShellFiles ];
