@@ -37,7 +37,7 @@ in rustPlatform.buildRustPackage rec {
     lockFile = ./Cargo.lock;
     outputHashes = {
 
-    "sys-info-0.9.1" = "sha256-NLj4jG3hSRC5ywiZY0cKIgGqmmMcjKWaAQ1AlgK66W8=";
+    "sys-info-0.9.1" = "sha256-f6S3zb1aEOClkMDc7DpzEZXosQ4wlsSMPNGmlivWKIU=";
     };
   };
 
